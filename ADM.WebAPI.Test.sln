@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADM.WebAPI.GenAPIKey", "ADM.WebAPI.GenAPIKey\ADM.WebAPI.GenAPIKey.csproj", "{502160BB-3A9F-47BF-B19C-122236C8810D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADM.WebAPI.GenSecretKey", "ADM.WebAPI.GenSecretKey\ADM.WebAPI.GenSecretKey.csproj", "{F5A6C359-7797-420C-BEAD-D59189AD2FE6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADM.WebAPI.GenAPPId", "ADM.WebAPI.GenAPPId\ADM.WebAPI.GenAPPId.csproj", "{6C8A15BA-4955-47AA-873D-8866DB2B48BA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADM.WebAPI.Test.Client", "ADM.WebAPI.Test.Client\ADM.WebAPI.Test.Client.csproj", "{4CF7E42F-57D7-47A2-973D-3DCBDFE8EADA}"
 EndProject
 Global
@@ -17,18 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{502160BB-3A9F-47BF-B19C-122236C8810D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{502160BB-3A9F-47BF-B19C-122236C8810D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{502160BB-3A9F-47BF-B19C-122236C8810D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{502160BB-3A9F-47BF-B19C-122236C8810D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5A6C359-7797-420C-BEAD-D59189AD2FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5A6C359-7797-420C-BEAD-D59189AD2FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5A6C359-7797-420C-BEAD-D59189AD2FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5A6C359-7797-420C-BEAD-D59189AD2FE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6C8A15BA-4955-47AA-873D-8866DB2B48BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C8A15BA-4955-47AA-873D-8866DB2B48BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C8A15BA-4955-47AA-873D-8866DB2B48BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C8A15BA-4955-47AA-873D-8866DB2B48BA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4CF7E42F-57D7-47A2-973D-3DCBDFE8EADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4CF7E42F-57D7-47A2-973D-3DCBDFE8EADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CF7E42F-57D7-47A2-973D-3DCBDFE8EADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
